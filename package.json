@@ -1,0 +1,11 @@
+{
+  "name": "jathrmokaab-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:jathrmokaab/online/jathrmokaab-site.git",
+  "author": "Khaled Alzubaidi <khzubaidi@jathrmokaab.com.sa>",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
